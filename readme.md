@@ -9,7 +9,7 @@
 <br>
 </p>
 <p align="left">
-- I work on Web1 , Web2 , Web3 development , Security based works , and everything around it.
+- On track of Web1 , Web2 , Web3 development ,and everything around it.
   <br>
 - I’m currently on to developing the cores of my skills. **
 </p>
