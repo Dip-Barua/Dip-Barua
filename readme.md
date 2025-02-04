@@ -26,13 +26,24 @@
 
 <br clear="both">
 
-<h1 align="left">Hey there !👋</h1>
+<h1 align="left">👋Hello, I’m Dip Barua.</h1>
 
 ###
 
-<h4 align="left">I’m Dip , a passionate MERN Stack Developer with an emerging passion for DevOps and a strong problem-solving mindset in algorithmic challenges. I have hands-on experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, and I constantly push myself to learn new technologies and improve my skillset.</h4>
+<h4 align="left">A passionate MERN Stack Developer with an emerging passion for DevOps and a strong problem-solving mindset in algorithmic challenges. I have hands-on experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, and I constantly push myself to learn new technologies and improve my skillset.</h4>
 
 ###
+<br clear="both">
+
+
+## 💫 About Me:
+🔭 I’m currently working on Frontend projects<br>
+👯 I’m looking to collaborate on github<br>
+🌱 I’m currently growing my problem solving skill<br>
+💬 Talk to me about Mern Technologies , Devops toolset etc<br>
+📫 Reach me at dipraj1278@gmail.com
+
+<br clear="both">
 
 <h2 align="left">Skills & Interests :</h2>
 
@@ -41,6 +52,8 @@
 <h4 align="left">🚀 MERN Stack Development – Proficient in NextJs, React, Node.js, Express.js, MongoDB, REST APIs.<br>💻 Competitive Programming – Active on Codeforces  solving algorithmic challenges.<br>☁️ DevOps Enthusiast – Learning Docker, CI/CD pipelines, cloud deployment strategies.<br>🖥️ Programming Languages – C, C++, JavaScript.</h4>
 
 ###
+<br clear="both">
+
 
 <h2 align="left">🛠 Language and tools</h2>
 
@@ -49,17 +62,17 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" height="42" alt="mongodb logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42" alt="express logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="42" alt="express logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" height="42" alt="react logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" alt="nodejs logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42" alt="nextjs logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="42" alt="tailwindcss logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Dark.svg" height="42" alt="tailwindcss logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="42" alt="materialui logo"  />
   <img width="14" />
@@ -75,13 +88,17 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="kubernetes logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="42" alt="jenkins logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" height="42" alt="jenkins logo"  />
+  <img width="14" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" height="42" alt="jenkins logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo"  />
   <img width="14" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Dark.svg" height="42" alt="vscode logo"  />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo"  />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" height="42" alt="github logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42" alt="gitlab logo"  />
   <img width="14" />
@@ -91,14 +108,17 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="canva logo"  />
   <img width="14" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Discord.svg" height="42" alt="canva logo"  />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="42" alt="codepen logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
 </div>
 
 ###
+<br clear="both">
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
