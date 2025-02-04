@@ -1,8 +1,41 @@
 <div align="center">
   <img src="img/header_1.png"  />
+  <h1></h1> 
+
 </div>
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dip-barua.dip-barua&left_text=Total%20Visitors"  />
+</div>
+<br clear="both">
+
+<h1 align="center">👋Hello, I’m Dip Barua.</h1>
+
 
 ###
+
+<h4 align="center">A passionate MERN Stack Developer with an emerging passion for DevOps and a strong problem-solving mindset in algorithmic challenges. I have hands-on experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, and I constantly push myself to learn new technologies and improve my skillset.</h4>
+  <h1></h1> 
+
+###
+<br clear="both">
+
+
+## 💫 About Me:
+🔭 I’m currently working on Frontend projects<br>
+👯 I’m looking to collaborate on github<br>
+🌱 I’m currently growing my problem solving skill<br>
+💬 Talk to me about Mern Technologies , Devops toolset etc<br>
+📫 Reach me at dipraj1278@gmail.com
+  <h1></h1> 
+
+<br clear="both">
+
+
+## 🌐 Let's Connect
+<br clear="both">
+
 
 <div align="center">
   <a href="mailto:dipraj1278@gmail.com" target="_blank">
@@ -21,44 +54,24 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
+<h1></h1> 
 
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dip-barua.dip-barua&left_text=Total%20Visitors"  />
-</div>
+
 
 ###
 
-<br clear="both">
 
-<h1 align="left">👋Hello, I’m Dip Barua.</h1>
-
-###
-
-<h4 align="left">A passionate MERN Stack Developer with an emerging passion for DevOps and a strong problem-solving mindset in algorithmic challenges. I have hands-on experience in developing full-stack web applications using MongoDB, Express.js, React.js, and Node.js, and I constantly push myself to learn new technologies and improve my skillset.</h4>
-
-###
-<br clear="both">
-
-
-## 💫 About Me:
-🔭 I’m currently working on Frontend projects<br>
-👯 I’m looking to collaborate on github<br>
-🌱 I’m currently growing my problem solving skill<br>
-💬 Talk to me about Mern Technologies , Devops toolset etc<br>
-📫 Reach me at dipraj1278@gmail.com
-
-<br clear="both">
-
-<h2 align="left">Skills & Interests :</h2>
+<h2 align="left">💻 Skills & Interests :</h2>
 
 ###
 
-<h4 align="left">🚀 MERN Stack Development – Proficient in NextJs, React, Node.js, Express.js, MongoDB, REST APIs.<br>💻 Competitive Programming – Active on Codeforces  solving algorithmic challenges.<br>☁️ DevOps Enthusiast – Learning Docker, CI/CD pipelines, cloud deployment strategies.<br>🖥️ Programming Languages – C, C++, JavaScript.</h4>
+<p align="left">🚀 MERN Stack Development – Proficient in NextJs, React, Node.js, Express.js, MongoDB, REST APIs.<br>💻 Competitive Programming – Active on Codeforces  solving algorithmic challenges.<br>☁️ DevOps Enthusiast – Learning Docker, CI/CD pipelines, cloud deployment strategies.<br>🖥️ Programming Languages – C, C++, JavaScript.</p>
+  <h1></h1> 
 
 ###
 <br clear="both">
@@ -123,6 +136,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo"  />
 </div>
+  <h1></h1> 
 
 ###
 <br clear="both">
@@ -135,6 +149,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dip-barua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dip-barua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+  <h1></h1> 
 
 ###
 
